@@ -13,7 +13,7 @@ const About = () => {
     <div>
 
       <div className={styles["home-heading-description-div"]}>
-      <div className={styles["home-heading"]}>About us</div>
+      <div className={styles["home-heading"]}>About us.</div>
 
         <div className={styles["home-description"]}>Introducing a groundbreaking solution that challenges the barriers imposed by AI detection systems, including ChatGPT and other AI language models. This innovative tool empowers content creators by offering a fresh perspective on circumventing AI detection.
 
